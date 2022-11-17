@@ -11,8 +11,8 @@ function App() {
     <div>
   < TestimonialItem />
   <a 
-  className='block shadow bg-cyan-300 text-white text-center p-4 mt-5 rounded-xl hover:bg-cyan-400'
-  href="http://b7web.com.br/fullstack">Quero evoluir o pokémon"</a>
+  className='block shadow bg-cyan-400 text-white text-center p-4 mt-5 rounded-xl hover:bg-cyan-200'
+  href="http://b7web.com.br/fullstack">Evoluir o pokémon</a>
     </div>
   </div>
   )
