@@ -1,7 +1,9 @@
 # CartaoVisitas
+
+![cartão de visita](public/cartao.png)
 # Base Project in React (with TailwindCSS and Typescript)
 This project was made in Nov2022 following a Youtube Live made by [B7Web](https://b7web.com.br)
-
+Using Vite + React + Tailwind - ts
 ## (!) Important Info (!)
 Don't forget to run `npm install` to install all dependencies before running the project.
 

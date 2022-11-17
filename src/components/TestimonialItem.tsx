@@ -5,7 +5,7 @@ export const TestimonialItem = () => {
             <div className="pt-6 text-center space-y-4 md:text-left md:p-8">
         <div className="tex-gray-700 text-lg font-semibold">
             "Conheci o Web development aos 52, me apaixonei pelo Front End e iniciei uma nova carreira. Por que? 
-            Porque não?"
+            Por que não?"
         </div>
         
         <div className="font-medium ">
